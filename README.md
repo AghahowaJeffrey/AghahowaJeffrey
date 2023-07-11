@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AghahowaJeffrey
-- 👀 I’m interested in Software Dev and Cryptocurrency
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to become a Freelancer & a Content Creator
-- 📫 How to reach me @aghahowaj01@gmail.com
+- Coding enthusiast
+- Exploring the world of full stack development!
+- Python lover 🐍 | HTML, CSS, JS learner 💻 |
+- Building cool web experiences! 💡
+- Join me on this coding journey and let's create something awesome together!
+- 🌟 #FullStackDeveloper #Python #WebDevelopment
 Follow me on Instagram @jeff_aghahowa where i share my programming journey.
 
 <!---
