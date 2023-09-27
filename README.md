@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AghahowaJeffrey
 - Coding enthusiast
 - Exploring the world of full stack development!
-- Python lover 🐍 | HTML, CSS, JS learner 💻 |
+- Reactjs developer | Python | Tailwindcss 
 - Building cool web experiences! 💡
 - Join me on this coding journey and let's create something awesome together!
-- 🌟 #FullStackDeveloper #Python #WebDevelopment
+- 🌟 #FullStackDeveloper #Reactjs #Python #WebDevelopment
 Follow me on Instagram @jeff_aghahowa where i share my programming journey.
 
 <!---
