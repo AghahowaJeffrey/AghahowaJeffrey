@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @AghahowaJeffrey
 - Coding enthusiast
-- Exploring the world of full stack development!
-- Reactjs developer | Python | Tailwindcss 
+- Exploring the world of Django development!
+- Django Developer | Python
 - Building cool web experiences! 💡
 - Join me on this coding journey and let's create something awesome together!
-- 🌟 #FullStackDeveloper #Reactjs #Python #WebDevelopment
-Follow me on Instagram @jeff_aghahowa where i share my programming journey.
+- 🌟 #FullStackDeveloper # DjangoDeveloper #Vue.js #Reactjs #Python #WebDevelopment
+- 📫 How to reach me aghahowaj01@gmail.com
+Follow me on Instagram @jeff_aghahowa where I share my programming journey.
 
 <!---
 WHY I GOT INTO PROGRAMMING?
