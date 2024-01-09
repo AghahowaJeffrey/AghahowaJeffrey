@@ -6,7 +6,7 @@
 - Join me on this coding journey and let's create something awesome together!
 - 🌟 #FullStackDeveloper # DjangoDeveloper #Vue.js #Reactjs #Python #WebDevelopment
 - 📫 How to reach me aghahowaj01@gmail.com
-Follow me on Instagram @jeff_aghahowa where I share my programming journey.
+- Follow me on Instagram @jeff_aghahowa where I share my programming journey.
 
 <!---
 WHY I GOT INTO PROGRAMMING?
