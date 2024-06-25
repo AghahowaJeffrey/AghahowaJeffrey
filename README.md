@@ -2,7 +2,7 @@
 - Coding enthusiast
 - Exploring the world of Django development!
 - Django Developer | Python
-- Building cool web experiences! 💡
+- Not just writing code but doing it right!💡
 - Join me on this coding journey and let's create something awesome together!
 - 🌟 #FullStackDeveloper # DjangoDeveloper #Vue.js #Reactjs #Python #WebDevelopment
 - 📫 How to reach me aghahowaj01@gmail.com
