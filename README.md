@@ -10,7 +10,7 @@
 
 <!---
 WHY I GOT INTO PROGRAMMING?
-Programming has always been something that seems to blow my mind away, even when i had no idea what it was. 
-I have always been facinated by it right from a very young age. The fact that i could solve probems, create, invent
-and put things together and see them come to live has always beeen my drive.
+Programming has always been something that seems to blow my mind away, even when I had no idea what it was. 
+I have always been fascinated by it right from a very young age. The fact that I could solve problems, create, invent,
+and put things together and see them come to life has always been my drive.
 --->
