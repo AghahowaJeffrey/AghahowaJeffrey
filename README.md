@@ -13,6 +13,10 @@ I enjoy designing systems that handle real-world load: distributed backends, eve
 - **Architecture:** Microservices, serverless functions, event-driven design, Modular Monolith
 - **DevOps Tools:** Docker, CI/CD, cloud deployments
 
+### 🌍 Open Source
+I actively contribute to open-source projects—fixing issues, improving documentation, and implementing new features.  
+Collaboration and consistency keep my engineering sharp.
+
 ### 🚀 What I Build
 High-performance APIs, AI-powered platforms, distributed systems, and full-stack applications that emphasize reliability, clarity, and maintainability.
 
@@ -22,8 +26,9 @@ High-performance APIs, AI-powered platforms, distributed systems, and full-stack
 **Instagram:** codewith.jeffrey
 
 ### ⚡ Currently
-Building advanced backend systems, exploring AI-integrated architectures, and pushing toward elite-level engineering mastery.
+Building advanced backend systems, exploring AI-integrated architectures, contributing to open-source and pushing toward elite-level engineering mastery.
 
+Software Development is more than a career to me, It's passion at it peak
 ---
 
 
