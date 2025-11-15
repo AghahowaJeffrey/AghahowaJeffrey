@@ -1,16 +1,16 @@
 # Hi, I'm Aghahowa — Backend & AI-Focused Software Engineer
 
 I build scalable backend systems, clean APIs, and modern full-stack applications.  
-My work blends **Python/Django**, **Node.js/Express**, **React**, and **AI-powered architectures** to create reliable, production-ready software.
+My work blends **Python/Django**, **React**, and **AI-powered architectures** to create reliable, production-ready software.
 
 I enjoy designing systems that handle real-world load: distributed backends, event-driven workflows, cloud deployments, and AI-integrated features that solve practical problems.
 
 ### 🛠️ Core Expertise
-- **Backend Engineering:** Django, Django REST Framework, Node.js/Express, FastAPI  
-- **Frontend Engineering:** React, Next.js  
+- **Backend Engineering:** Django, Django REST Framework, FastAPI  
+- **Frontend Engineering:** React, Next.js, Tailwindcss  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
 - **AI & Automation:** LLM integration, vector search, embeddings, intelligent pipelines  
-- **Architecture:** Microservices, serverless functions, event-driven design  
+- **Architecture:** Microservices, serverless functions, event-driven design, Modular Monolith
 - **DevOps Tools:** Docker, CI/CD, cloud deployments
 
 ### 🚀 What I Build
