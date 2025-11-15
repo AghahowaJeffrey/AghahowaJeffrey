@@ -28,7 +28,8 @@ High-performance APIs, AI-powered platforms, distributed systems, and full-stack
 ### ⚡ Currently
 Building advanced backend systems, exploring AI-integrated architectures, contributing to open-source and pushing toward elite-level engineering mastery.
 
-Software Development is more than a career to me, It's passion at it peak
+<sup><small>Software Development is more than a career to me, It's passion at it peak</small></sub>
+
 ---
 
 
