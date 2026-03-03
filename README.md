@@ -1,32 +1,66 @@
-# Hi, I'm Aghahowa — Backend & AI-Focused Software Engineer
+# Hi, I'm Aghahowa — Backend Systems Engineer | Distributed Systems | AI-Integrated Infrastructure
 
-I build scalable backend systems, clean APIs, and modern full-stack applications.  
-My work blends **Python/Django**, **React**, and **AI-powered architectures** to create reliable, production-ready software.
+I design and build backend systems that are scalable, fault-tolerant, and production-ready.
 
-I enjoy designing systems that handle real-world load: distributed backends, event-driven workflows, cloud deployments, and AI-integrated features that solve practical problems.
+My work focuses on distributed task processing, reliable API architecture, data modeling, and AI integration under real-world constraints. I care about system behavior under load, failure recovery, and long-term maintainability — not just feature delivery.
 
-### 🛠️ Core Expertise
-- **Backend Engineering:** Django, Django REST Framework, FastAPI  
-- **Frontend Engineering:** React, Next.js, Tailwindcss  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-- **AI & Automation:** LLM integration, vector search, embeddings, intelligent pipelines  
-- **Architecture:** Microservices, serverless functions, event-driven design, Modular Monolith
-- **DevOps Tools:** Docker, CI/CD, cloud deployments
+### 🛠️ Engineering Focus
+I’m currently sharpening expertise in:
+- Distributed task processing and lease-based coordination
+- Asynchronous workflows and event-driven architectures
+- Database performance tuning and data modeling
+- Reliability patterns (idempotency, retry backoff, dead-letter handling)
+- AI system integration with cost and latency awareness
+- Modular monoliths and service-oriented architecture
 
-### 🌍 Open Source
-I actively contribute to open-source projects—fixing issues, improving documentation, and implementing new features.  
-Collaboration and consistency keep my engineering sharp.
+### ⚙️ Core Stack
+**Backend & Systems**
+- Python (Django, Django REST Framework, FastAPI)
+- Asynchronous processing
+- RESTful API architecture
+- Background task orchestration
+  
+**Data & Storage**
+- PostgreSQL (query optimization, indexing, modeling)
+- Redis (caching, queue patterns)
+- MongoDB
 
-### 🚀 What I Build
-High-performance APIs, AI-powered platforms, distributed systems, and full-stack applications that emphasize reliability, clarity, and maintainability.
+**AI Integration**
+- LLM APIs
+- Embedding pipelines
+- Vector search
+- Structured AI workflows
+
+**Infrastructure**
+- Docker
+- CI/CD pipelines
+- Cloud deployment fundamentals
+
+### 🏗️ What I Build
+- High-performance backend APIs
+- Distributed job processing systems
+- AI-powered platforms with production guardrails
+- Data-driven applications optimized for reliability and scale
+
+I focus on systems that continue working when things go wrong — network failures, retries, concurrency conflicts, and unexpected load.
+
+### 🌍 Open Source & Learning
+I actively contribute to open-source projects and build systems from first principles to deepen understanding of distributed coordination, failure modes, and system guarantees.
+
+Current deep-dive areas:
+- Task orchestration engines
+- Observability fundamentals
+- AI cost control & evaluation pipelines
+- System design under scale constraints
+
+### Philosophy
+Good software is not just about writing code.
+It’s about designing systems that behave correctly under uncertainty.
 
 ### 📬 Contact
 **Email:** aghahowaj01@gmail.com  
 <!--- **LinkedIn:** (add link if you want) -->
 **Instagram:** codewith.jeffrey
-
-### ⚡ Currently
-Building advanced backend systems, exploring AI-integrated architectures, contributing to open-source and pushing toward elite-level engineering mastery.
 
 <sup><small>Software Development is more than a career to me, It's passion at it peak</small></sub>
 
